@@ -1,6 +1,7 @@
 Desenvolvimento Web - Back end
 
 Professor: Bruno José de Souza
+
 Aluno: Gustavo Igor da Silva
 
  Este projeto final é um CRUD para cadastro de livros feito inteiramente em JavaScript com Node.js e utilizando os frameworks express e mongoose. Além disso, ele usa o banco de dados não relacional MongoDB versão ATLAS.
